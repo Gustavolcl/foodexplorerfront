@@ -6,7 +6,7 @@ export const api = axios.create({
 
   //baseURL: "https://api-food-explorer.herokuapp.com"
 
-  baseURL: "https://foodexplorer-api-vx49.onrender.com"
+  baseURL: "https://gustavo-lobo-api.onrender.com"
 
 
 
