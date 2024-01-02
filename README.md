@@ -77,10 +77,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/LidianeDiniz/API_Food_Explorer.git
+$ git clone https://github.com/Gustavolcl/foodexplorerfront.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd + sua pasta + git clone https://github.com/LidianeDiniz/API_Food_Explorer.git
+$ cd + sua pasta + git clone https://github.com/Gustavolcl/foodexplorerfront.git
 
 # Instale as dependências
 $ npm install
@@ -105,10 +105,10 @@ $ password: 112233
 ```bash
 
 # Clone este repositório
-$ https://github.com/LidianeDiniz/Frontend_foodExplorer.git
+$ https://github.com/Gustavolcl/foodexplorerfront.git 
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd + sua pasta + git clone https://github.com/LidianeDiniz/Frontend_foodExplorer.git
+$ cd + sua pasta + git clone https://github.com/Gustavolcl/foodexplorerfront.git
 
 
 # Instale as dependências com:
@@ -143,7 +143,7 @@ Neste desafio foram abordados os seguintes temas:
 
 ---
 ## Deploy do projeto.
-https://food-explorer-lidiane-diniz.netlify.app/
+
 
 
 ---
@@ -152,6 +152,5 @@ https://food-explorer-lidiane-diniz.netlify.app/
 
 This project is under the license [MIT](./LICENSE).
 
-Made with ❤️ by Lidiane Diniz  [Get in Touch!](https://www.linkedin.com/in/lidiane-cristina-diniz)
 
 ---
